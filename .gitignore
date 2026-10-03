@@ -1,0 +1,16 @@
+# секреты
+.env
+
+# виртуальное окружение
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# редакторы и ОС
+.idea/
+.vscode/
+.DS_Store
